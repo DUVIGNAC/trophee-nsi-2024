@@ -1,0 +1,4 @@
+Projet développé sous Python 3.11 (64-bit), supporte la dernière version du language, Python 3.12.2.
+
+Ne pas séparer le fichier main.py du dossier Level_Folder contenant les fichier des niveaux sous format .json.
+Ils doivent se trouver dans le meme dossier.
